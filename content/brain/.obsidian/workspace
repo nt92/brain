@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1394f0f99fa04ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e08ebf0570dc3c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05796ccedda73913",
+    "type": "split",
+    "children": [
+      {
+        "id": "938b55a60a7f98da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f9c51a85d4d697a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d1c146df812935b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20efddf8e94fa810",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aae38c4d3cf6b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa727e643f964f88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e0f23f68a88cde0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "08e08ebf0570dc3c",
+  "lastOpenFiles": [
+    "Daily Notes/2022-02-08.md",
+    "Daily Notes/2022-02-01.md",
+    "Daily Notes/2022-01-14.md",
+    "Meetings/Weekly Meeting.md",
+    "People/Aly.md",
+    "Projects/Ramp-Up.md"
+  ]
+}
