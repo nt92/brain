@@ -10,6 +10,8 @@ Setting up Quartz requires a basic understanding of `git`. If you are unfamiliar
 ### Forking
 > A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 
+^f9eb66
+
 Navigate to the GitHub repository for the Quartz project:
 
 📁 [Quartz Repository](https://github.com/jackyzha0/quartz)
