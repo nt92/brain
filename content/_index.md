@@ -1,26 +1,19 @@
 ---
-title: brain.nikhilthota.com
+title: my brain
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+Hello there! I'm [Nikhil](https://nikhilthota.com). Welcome to my public second brain. I've been writing for a few years now and have found the format of drafting, editing, and publishing blog posts to be terribly cumbersome. 
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+In fact, it's prevented me from writing as much as I'd like. Over the years, I've experimented with various ways to get over this hurdle such as [tweeting more](https://twitter.com/nikhilthota), creating a section on my website for [lightweight notes](https://nikhilthota.com/notes), and even sending out a [monthly newsletter](https://tinyletter.com/nikhilthota/) as a forcing function. Unfortunately, none of it stuck.
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+However, I found myself writing more than I had ever before in the recesses of my personal knowledge management system (previously primarily in [Roam](https://roamresearch.com/), now in Obsidian). I was writing *thousands* of words just for myself, never to be seen by another soul. 
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
+I want to change that. I want to make most of the writing that I create be public and available in an indexed and searchable format. That's what this website aims to do. Welcome to [my brain](/).
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+Utilizing Quartz, this site features the following:
+* Extremely fast full-text search by pressing /
+* Display for backlinks of each note
+* Fully customizable local graph view
+* Beautiful link previews
+
+Let me know what you think of the design / content by either [sending me an email](mailto:nthota92@gmail.com) or [tweeting @ me](https://twitter.com/nikhilthota)! 👋🏽
